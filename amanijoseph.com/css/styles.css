@@ -3917,7 +3917,7 @@ img.u-pull-left {
 }
 
 .testimonial-slider__slide:hover .testimonial-slider__cite span {
-    color : white;
+    color : yellow;
 }
 
 .testimonial-slider__author {
@@ -4101,7 +4101,7 @@ img.u-pull-left {
 .contact-links a:hover,
 .contact-social a:focus,
 .contact-social a:hover {
-    color : var(--color-1);
+    color : cyan;
 }
 
 .contact-social {
